@@ -28,7 +28,7 @@ Se desejar rodar o código fonte:
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/seu-usuario/shield-timer.git](https://github.com/marcoslanes/tdah-timer.git)
+git clone [https://github.com/marcoslanes/tdah-timer.git](https://github.com/marcoslanes/tdah-timer.git)
 
 # Crie um ambiente virtual
 python -m venv venv
