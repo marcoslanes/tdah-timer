@@ -1,6 +1,6 @@
 # 🛡️ TDAH-TIMER
 
-**Shield Timer** é uma ferramenta leve e intuitiva desenvolvida para auxiliar na triagem de tarefas, permitindo o monitoramento preciso do tempo gasto em cada atendimento (**MTTR - Mean Time To Respond**).
+**TDAH TIMER** é uma ferramenta leve e intuitiva desenvolvida para auxiliar na triagem de tarefas, permitindo o monitoramento preciso do tempo gasto em cada atendimento (**MTTR - Mean Time To Respond**).
 
 ## 🚀 Funcionalidades
 
@@ -28,7 +28,7 @@ Se desejar rodar o código fonte:
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/seu-usuario/shield-timer.git](https://github.com/seu-usuario/shield-timer.git)
+git clone [https://github.com/seu-usuario/shield-timer.git](https://github.com/marcoslanes/tdah-timer.git)
 
 # Crie um ambiente virtual
 python -m venv venv
